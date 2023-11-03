@@ -1,0 +1,42 @@
+img1{
+    border-radius: 10%;
+    width: 100px;
+    height:100px
+
+}
+ P{
+    text-align:left;
+    text-decoration: underline;
+}
+form{
+    text-align:left;
+    background-color: aquamarine;
+}
+ Resume{
+    background-color: blueviolet;
+
+}
+ .resume-container{
+    background-color:bisque;
+    width:fit-content;
+    margin:0 auto;
+}
+.bio{
+    width:500px;
+    font-size:14px;
+}
+.b{
+    text-align:center;
+}
+h3{
+    text-decoration: underline;
+} 
+
+.s{
+    text-align:center;
+}
+.r{
+    text-align:center;
+}
+  
+ 
